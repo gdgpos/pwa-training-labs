@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/google-developer-training/pwa-training-labs) 
+
 # PWA Training Labs
 
 This repo contains open-source training labs for building Progressive Web Apps.
